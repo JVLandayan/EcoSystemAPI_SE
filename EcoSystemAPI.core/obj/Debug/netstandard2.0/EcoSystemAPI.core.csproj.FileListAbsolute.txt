@@ -1,0 +1,8 @@
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.core\bin\Debug\netstandard2.0\EcoSystemAPI.core.deps.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.core\bin\Debug\netstandard2.0\EcoSystemAPI.core.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.core\bin\Debug\netstandard2.0\EcoSystemAPI.core.pdb
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.core\obj\Debug\netstandard2.0\EcoSystemAPI.core.AssemblyInfoInputs.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.core\obj\Debug\netstandard2.0\EcoSystemAPI.core.AssemblyInfo.cs
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.core\obj\Debug\netstandard2.0\EcoSystemAPI.core.csproj.CoreCompileInputs.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.core\obj\Debug\netstandard2.0\EcoSystemAPI.core.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.core\obj\Debug\netstandard2.0\EcoSystemAPI.core.pdb

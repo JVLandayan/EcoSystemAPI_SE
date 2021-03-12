@@ -1,0 +1,16 @@
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\bin\Debug\netcoreapp3.1\EcoSystemAPI.uow.deps.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\bin\Debug\netcoreapp3.1\EcoSystemAPI.uow.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\bin\Debug\netcoreapp3.1\EcoSystemAPI.uow.pdb
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\bin\Debug\netcoreapp3.1\EcoSystemAPI.context.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\bin\Debug\netcoreapp3.1\EcoSystemAPI.context.pdb
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\obj\Debug\netcoreapp3.1\EcoSystemAPI.uow.csprojAssemblyReference.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\obj\Debug\netcoreapp3.1\EcoSystemAPI.uow.AssemblyInfoInputs.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\obj\Debug\netcoreapp3.1\EcoSystemAPI.uow.AssemblyInfo.cs
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\obj\Debug\netcoreapp3.1\EcoSystemAPI.uow.csproj.CopyComplete
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\obj\Debug\netcoreapp3.1\EcoSystemAPI.uow.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\obj\Debug\netcoreapp3.1\EcoSystemAPI.uow.pdb
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\bin\Debug\netcoreapp3.1\EcoSystemAPI.uow.runtimeconfig.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\bin\Debug\netcoreapp3.1\EcoSystemAPI.uow.runtimeconfig.dev.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\obj\Debug\netcoreapp3.1\EcoSystemAPI.uow.genruntimeconfig.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\bin\Debug\netcoreapp3.1\EcoSystemAPI.core.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.uow\bin\Debug\netcoreapp3.1\EcoSystemAPI.core.pdb

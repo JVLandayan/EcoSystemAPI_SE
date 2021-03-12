@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJhe1ijUBhtKQRoWJLCbtl7nRsXS9FvjmpDXRg4f3cSEhHfjeGP5/lS7U7QF5NxV02Ofd2ORdEakQca9J5e45A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jvlan\\Desktop\\Software Engineering\\EcoAngular\\Ecosystem_organized\\EcoSystemAPI\\EcoSystemAPI.uow\\EcoSystemAPI.uow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jvlan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jvlan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\bin\Debug\netcoreapp3.1\EcoSystemAPI.core.deps.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\bin\Debug\netcoreapp3.1\EcoSystemAPI.core.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\bin\Debug\netcoreapp3.1\EcoSystemAPI.core.pdb
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\obj\Debug\netcoreapp3.1\EcoSystemAPI.core.AssemblyInfoInputs.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\obj\Debug\netcoreapp3.1\EcoSystemAPI.core.AssemblyInfo.cs
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\obj\Debug\netcoreapp3.1\EcoSystemAPI.core.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\obj\Debug\netcoreapp3.1\EcoSystemAPI.core.pdb
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\obj\Debug\netcoreapp3.1\EcoSystemAPI.core.csprojAssemblyReference.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\bin\Debug\netcoreapp3.1\EcoSystemAPI.core.runtimeconfig.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\bin\Debug\netcoreapp3.1\EcoSystemAPI.core.runtimeconfig.dev.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\obj\Debug\netcoreapp3.1\EcoSystemAPI.core.genruntimeconfig.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\bin\Debug\netcoreapp3.1\EcoSystemAPI.context.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\bin\Debug\netcoreapp3.1\EcoSystemAPI.context.pdb
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.core\obj\Debug\netcoreapp3.1\EcoSystemAPI.core.csproj.CopyComplete

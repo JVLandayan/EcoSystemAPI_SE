@@ -1,0 +1,11 @@
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\bin\Debug\netcoreapp3.1\EcoSystemAPI.context.deps.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\bin\Debug\netcoreapp3.1\EcoSystemAPI.context.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\bin\Debug\netcoreapp3.1\EcoSystemAPI.context.pdb
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\obj\Debug\netcoreapp3.1\EcoSystemAPI.context.AssemblyInfoInputs.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\obj\Debug\netcoreapp3.1\EcoSystemAPI.context.AssemblyInfo.cs
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\obj\Debug\netcoreapp3.1\EcoSystemAPI.context.dll
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\obj\Debug\netcoreapp3.1\EcoSystemAPI.context.pdb
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\obj\Debug\netcoreapp3.1\EcoSystemAPI.context.csprojAssemblyReference.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\bin\Debug\netcoreapp3.1\EcoSystemAPI.context.runtimeconfig.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\bin\Debug\netcoreapp3.1\EcoSystemAPI.context.runtimeconfig.dev.json
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\_EcoSystemAPI.context\obj\Debug\netcoreapp3.1\EcoSystemAPI.context.genruntimeconfig.cache

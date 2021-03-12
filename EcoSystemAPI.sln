@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoSystemAPI", "EcoSystemAPI\EcoSystemAPI.csproj", "{DA642593-5AF5-4923-A57E-C8577B44B4EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoSystemAPI.context", "_EcoSystemAPI.context\EcoSystemAPI.context.csproj", "{19FBAE17-AEA5-4558-A19B-8C75ACFC046C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoSystemAPI.core", "_EcoSystemAPI.core\EcoSystemAPI.core.csproj", "{A4DF5B06-4DFC-4BFB-A569-F5A3A29436D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoSystemAPI.uow", "_EcoSystemAPI.uow\EcoSystemAPI.uow.csproj", "{15C0BA4A-C3FC-467D-88FB-9F074C322F3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EcoSystemAPI.util", "EcoSystemAPI.util\EcoSystemAPI.util.csproj", "{4087952D-280E-4F81-BF8C-D8290BF1744D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoSystemAPI.service", "EcoSystemAPI.service\EcoSystemAPI.service.csproj", "{EFBF96AE-040F-4F30-A276-E64BE7005085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA642593-5AF5-4923-A57E-C8577B44B4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA642593-5AF5-4923-A57E-C8577B44B4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA642593-5AF5-4923-A57E-C8577B44B4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA642593-5AF5-4923-A57E-C8577B44B4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FBAE17-AEA5-4558-A19B-8C75ACFC046C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FBAE17-AEA5-4558-A19B-8C75ACFC046C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FBAE17-AEA5-4558-A19B-8C75ACFC046C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FBAE17-AEA5-4558-A19B-8C75ACFC046C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4DF5B06-4DFC-4BFB-A569-F5A3A29436D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4DF5B06-4DFC-4BFB-A569-F5A3A29436D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4DF5B06-4DFC-4BFB-A569-F5A3A29436D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4DF5B06-4DFC-4BFB-A569-F5A3A29436D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C0BA4A-C3FC-467D-88FB-9F074C322F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C0BA4A-C3FC-467D-88FB-9F074C322F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C0BA4A-C3FC-467D-88FB-9F074C322F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C0BA4A-C3FC-467D-88FB-9F074C322F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4087952D-280E-4F81-BF8C-D8290BF1744D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4087952D-280E-4F81-BF8C-D8290BF1744D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4087952D-280E-4F81-BF8C-D8290BF1744D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4087952D-280E-4F81-BF8C-D8290BF1744D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFBF96AE-040F-4F30-A276-E64BE7005085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFBF96AE-040F-4F30-A276-E64BE7005085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFBF96AE-040F-4F30-A276-E64BE7005085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFBF96AE-040F-4F30-A276-E64BE7005085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3928D822-9BC7-4BAE-86B6-5BEF889BED67}
+	EndGlobalSection
+EndGlobal

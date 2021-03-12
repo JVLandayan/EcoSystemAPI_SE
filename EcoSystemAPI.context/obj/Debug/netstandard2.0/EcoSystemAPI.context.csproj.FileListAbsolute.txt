@@ -1,0 +1,4 @@
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.context\obj\Debug\netstandard2.0\EcoSystemAPI.context.csprojAssemblyReference.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.context\obj\Debug\netstandard2.0\EcoSystemAPI.context.AssemblyInfoInputs.cache
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.context\obj\Debug\netstandard2.0\EcoSystemAPI.context.AssemblyInfo.cs
+C:\Users\jvlan\Desktop\Software Engineering\EcoAngular\Ecosystem_organized\EcoSystemAPI\EcoSystemAPI.context\obj\Debug\netstandard2.0\EcoSystemAPI.context.csproj.CoreCompileInputs.cache
